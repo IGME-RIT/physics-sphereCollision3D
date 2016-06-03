@@ -1,0 +1,10 @@
+﻿Build started 6/1/2016 10:08:24.
+     1>Project "C:\Users\Luna\Programming Projects\IGMTutorial\Physics\Sphere Collision 3D\Sphere Collision 3D\Sphere_Collision_3D.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Base.vcxproj, Circle_AABB_2D.vcxproj, Circle_OBB_2D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Sphere_Collision_3D.vcxproj -> C:\Users\Luna\Programming Projects\IGMTutorial\Physics\Sphere Collision 3D\Debug\Sphere Collision 3D.exe
+     1>Done Building Project "C:\Users\Luna\Programming Projects\IGMTutorial\Physics\Sphere Collision 3D\Sphere Collision 3D\Sphere_Collision_3D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
